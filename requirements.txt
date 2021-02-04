@@ -46,7 +46,6 @@ service-identity==18.1.0
 six==1.15.0
 soupsieve==2.1
 traitlets==5.0.5
-Twisted @ file:///C:/Users/user/Desktop/python%20pratique/web-scraping2/instagramScraper/Twisted-20.3.0-cp39-cp39-win_amd64.whl
 ua-parser==0.10.0
 urllib3==1.26.2
 user-agents==2.2.0
