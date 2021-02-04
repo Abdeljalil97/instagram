@@ -1,1 +1,1 @@
-worker: usename.py
+worker: python usename.py
